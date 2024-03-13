@@ -40,9 +40,8 @@ body{
 }
 
 #toggleMusic{
-    position: absolute;
-    bottom:10px;
-    right:10px;
+    
+    
     border: none;
     background: none;
     cursor: pointer;
@@ -56,13 +55,12 @@ body{
 #toggleMusic img,#again img {
     top:10px;
     right:10px;
-    width: 50px;
+    width: 2rem;
 }
 
 #again{
-    position: absolute;
-    bottom:10px;
-    right:100px;
+    
+    
     border: none;
     background: none;
     cursor: pointer;
