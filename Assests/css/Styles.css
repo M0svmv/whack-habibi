@@ -1,9 +1,13 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#448EE4;
     text-align: center;
     background: url('../imgs/roadbg.jpg') no-repeat center center fixed;
     background-size: cover;
     cursor: url('hammer.png'), default;
+}
+h1 img {
+    width: 40px;
 }
 
 #board {
